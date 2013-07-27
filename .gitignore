@@ -9,6 +9,7 @@ lib-cov
 *.gz
 
 .svn
+.c9*
 
 pids
 logs
